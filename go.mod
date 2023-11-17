@@ -1,4 +1,4 @@
-module eth
+module github.com/metadiv-io/eth
 
 go 1.21.3
 
